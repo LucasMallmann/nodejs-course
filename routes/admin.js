@@ -11,6 +11,8 @@ router.get("/add-product", adminController.getAddProduct);
 
 router.get("/edit-product/:id", adminController.getEditProduct);
 
+// router.get('/edit-product/')
+
 // /admin/products => GET
 router.get("/products", adminController.getProducts);
 

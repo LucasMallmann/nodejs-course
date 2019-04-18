@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Banana",
+    "imageUrl": "https://www.infoescola.com/wp-content/uploads/2010/04/banana_600797891.jpg",
+    "description": "Cool fruit",
+    "price": "4.99",
+    "id": "0.7689901420727097"
+  },
+  {
+    "title": "Macbook",
+    "imageUrl": "https://media.wired.com/photos/592708127034dc5f91bed670/master/pass/rosegold-macbookft1.jpg",
+    "description": "Super cool macbook",
+    "price": "599.99",
+    "id": "0.1806131235313846"
+  }
+]
